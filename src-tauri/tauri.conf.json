@@ -43,6 +43,12 @@
 	"mainBinaryName": "opendeck",
 	"version": "2.4.2",
 	"identifier": "opendeck",
+
+	"systemTray": {
+  		"iconPath": "icons/icon.png",
+  		"iconAsTemplate": false
+	},
+	
 	"plugins": {
 		"deep-link": {
 			"desktop": {
